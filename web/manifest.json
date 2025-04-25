@@ -1,6 +1,6 @@
 {
-    "name": "campus_bite",
-    "short_name": "campus_bite",
+    "name": "campusbite",
+    "short_name": "campusbite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
