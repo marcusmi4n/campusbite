@@ -1,6 +1,6 @@
 {
-    "name": "campusbite",
-    "short_name": "campusbite",
+    "name": "flutter_upgrde_app",
+    "short_name": "flutter_upgrde_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
