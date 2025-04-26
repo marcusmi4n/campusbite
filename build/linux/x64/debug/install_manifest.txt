@@ -1,0 +1,13 @@
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/campusbite
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/grimian/Documents/WIN flutter apps/GiTHUB/campusbite/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
